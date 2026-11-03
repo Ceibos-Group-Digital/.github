@@ -1,3 +1,3 @@
-# Esto es una prueba de readme general
+# Sign in as member
 
-Aca vamos a sumar reglas sobre nomenclatura de repos, y otras cosas
+This organization contains private information. To see the private readme, sign in as member
